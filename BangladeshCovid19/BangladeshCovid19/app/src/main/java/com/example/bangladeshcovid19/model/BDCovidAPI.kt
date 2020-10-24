@@ -12,7 +12,7 @@ import retrofit2.http.Path
 
 interface BDCovidAPI {
 
-    //https://corona-bd.herokuapp.com/stats
+    
     @GET("stats")
     fun getMestats(): Call<BdApiResponse>
 
@@ -25,13 +25,13 @@ interface BDCovidAPI {
             return if (BuildConfig.DEBUG) {
                 Retrofit.Builder()
                     .client(createClient())
-                    .baseUrl("https://corona-bd.herokuapp.com/")
+                    .baseUrl("/")
                     .addConverterFactory(GsonConverterFactory.create())
                     .build()
                     .create(BDCovidAPI::class.java)
             } else {
                 Retrofit.Builder()
-                    .baseUrl("https://corona-bd.herokuapp.com/")
+                    .baseUrl("/")
                     .addConverterFactory(GsonConverterFactory.create())
                     .build()
                     .create(BDCovidAPI::class.java)
