@@ -1,6 +1,6 @@
 # Bangladesh Covid-19 Tracker
 ### Android and Mobile's First Coronavirus App implemented for Bengalis Worldwide...
-Live National updates using an API build from the most sourceful government stats to display Total death, recovered, positive cases, tested along with - current cases of each 67 Districts info compared to the previous day - which can be searched through a designed custom recyclerview in 2nd screen- API feeds online updates every 24 hours. 
+Live National updates using an API build from the stats of the most accredited government source to display Total death, recovered, positive cases, tested along with - current cases of each 67 Districts info compared to the previous day - which can be searched through a designed custom recyclerview in 2nd screen- API feeds online updates every 24 hours. 
 Simple yet "First of its kind"...unique App written solely in KOTLIN using Android best practices, MVVM architecture, ViewModel, Retrofit for Network request, GSON parser/converter, Room persistence database for offline caching, RxJava and observable seqeunce, just to name a few technologies used! 
 
 ![](BangladeshCovid19/images/image11.PNG) ![](BangladeshCovid19/images/image4.png)
