@@ -6,6 +6,6 @@ Simple yet "First of its kind"...unique App written solely in KOTLIN using Andro
 ![](BangladeshCovid19/images/image11.PNG) ![](BangladeshCovid19/images/image4.png)
 
 UI was Designed purely by me, along with the custom Logo, Background, buttons, custom textview, recylerview, etc 
-Written Soley to help Bengali and non-Bengalis not just in Bangladesh but UK, Middle East, Asia, USA, Canada..anywhere in the world. -- First Version...More Features will be added: Real time language, HeatMap to indicate hotspots, Redesigned UI with 1st screen info present, more details on Button press, Push notifications for being informed when your hometown cases rises, stats graphs, todo list, and so forth
+Written Soley to help Bengali and non-Bengalis not just in Bangladesh but UK, Middle East, Asia, USA, Canada..all across the world. --Started on August 2020, First Version...More Features to be added: Real time language, HeatMap indicating hotspots, Redesigned UI with 1st screen info present, more details on Button press, Push notifications for being informed when your hometown cases rises, stats graphs, todo list, so forth
 
 ![](BangladeshCovid19/images/image22.jpg) ![](BangladeshCovid19/images/image32.PNG)
