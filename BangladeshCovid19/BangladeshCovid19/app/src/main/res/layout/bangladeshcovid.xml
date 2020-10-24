@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="#063307"
+    android:id="@+id/toolbarnew"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    app:title="Bangladesh COVID-19 Tracker"
+    app:logo="@drawable/positive_used"
+    android:layout_marginStart="-11dp"
+    android:layout_marginLeft="-10dp"
+    
+
+
+    >
+
+</androidx.appcompat.widget.Toolbar>

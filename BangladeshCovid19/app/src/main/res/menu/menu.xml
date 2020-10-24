@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+        <item
+            
+            android:title="@string/English"
+            android:id="@+id/lan_english"
+
+
+            />
+
+        <item
+            android:title="@string/Bengali"
+
+            android:id="@+id/lan_bengali"
+            />
+
+</menu>
