@@ -1,4 +1,7 @@
 # BD Coronavirus Tracker
+
+
+ ![](images/image3.png)
 Android Covid-19 App geared towards Bangladeshi across the Globe, where Live National updates on Total death, recovered, positive cases, tested is Displayed along with - current cases of 67 Districts info compared to the previous day - which can be searched in a designed custom recyclerview in 2nd page- API feeds online updated data every 24 hours. 
 Simple yet "First of its kind"...unique App written soley in KOTLIN using Android best practices, MVVM architecture, ViewModel, Retrofit for Network request, GSON parser/converter, Room persistence database for offline caching, RxJava, to name a few technologies used! 
 UI was Desgined purely by me, along with the custom Logo, background, buttons, custom textview, recylerview,etc 
